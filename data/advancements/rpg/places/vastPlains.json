@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:grass"
+        },
+        "title": "ヴァストゥ草原",
+        "frame": "task",
+        "description": "広大な草原"
+    },
+    "parent": "RPG:places/root",
+    "criteria": {
+        "getVastPlains": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "plains"
+            }
+        }
+    },
+    "rewards": {
+        "function": "rpg:vastPlains"
+    }
+}

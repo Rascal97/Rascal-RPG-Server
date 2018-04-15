@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:book"
+        },
+        "title": {
+            "translate": "advancements.fishing.root.title"
+        },
+        "description": {
+            "translate": "advancements.fishing.root.description"
+        },
+        "background": "minecraft:textures/blocks/animation_water.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "get_illustrated_encyclopedia_of_fish": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "requirements": [["get_illustrated_encyclopedia_of_fish"]]
+}

@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:log",
+            "data": 1
+        },
+        "title": "パスプルー村",
+        "frame": "task",
+        "description": "のどかな村",
+        "hidden": "true"
+    },
+    "parent": "RPG:places/vastPlains",
+    "criteria": {
+        "getVastPlains": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "mutated_plains"
+            }
+        }
+    },
+    "rewards": {
+        "function": "rpg:paspruVillage"
+    }
+}
