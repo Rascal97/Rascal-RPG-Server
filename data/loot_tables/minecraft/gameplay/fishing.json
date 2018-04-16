@@ -12,8 +12,8 @@
                             "data": 0
                         },
                         {
-                        	"function": "set_nbt",
-                        	"tag": "{display:{LocName:\"item.rpg.horse_mackerel\",Lore:[\"\u00A7b魚レア度：\u00A7e★★\u00A7r☆☆☆\",\"\u00A7r鰺、鯵。海水魚。\",\"\u00A7r語源は味が良いから、といわれる。\",\"\u00A7rアジフライがメジャー。\"]}}"
+                            "function": "set_nbt",
+                            "tag": "{display:{LocName:\"item.rpg.horse_mackerel\",Lore:[\"\u00A7b魚レア度：\u00A7e★★\u00A7r☆☆☆\",\"\u00A7r鰺、鯵\",\"\u00A7r海水魚\",\"\u00A7r語源は味が良いから、といわれる\"]}}"
                         }
                     ],
                     "weight": 25
@@ -27,8 +27,8 @@
                             "data": 0
                         },
                         {
-                        	"function": "set_nbt",
-                        	"tag": "{display:{LocName:\"item.rpg.ayu\",Lore:[\"\u00A7b魚レア度：\u00A7e★\u00A7r☆☆☆☆\",\"\u00A7r鮎、香魚、年魚、など。淡水魚。\",\"\u00A7r語源は川を下ることを意味する「アユル」から、といわれる。\",\"\u00A7r塩焼きがメジャー。\"]}}"
+                            "function": "set_nbt",
+                            "tag": "{display:{LocName:\"item.rpg.ayu\",Lore:[\"\u00A7b魚レア度：\u00A7e★\u00A7r☆☆☆☆\",\"\u00A7r鮎、香魚、年魚、など\",\"\u00A7r淡水魚\",\"\u00A7r語源は川を下ることを意味する「アユル」から、といわれる\"]}}"
                         }
                     ],
                     "weight": 30
@@ -42,8 +42,8 @@
                             "data": 0
                         },
                         {
-                        	"function": "set_nbt",
-                        	"tag": "{display:{LocName:\"item.rpg.sardine\",Lore:[\"\u00A7b魚レア度：\u00A7e★\u00A7r☆☆☆☆\",\"\u00A7r鰯、鰮。海水魚。\",\"\u00A7rロシア語ではイヴァシー (иваси) という。日本語からの転記。\",\"\u00A7r蒲焼きがメジャー。\"]}}"
+                            "function": "set_nbt",
+                            "tag": "{display:{LocName:\"item.rpg.sardine\",Lore:[\"\u00A7b魚レア度：\u00A7e★\u00A7r☆☆☆☆\",\"\u00A7r鰯、鰮\",\"\u00A7r海水魚\",\"\u00A7rロシア語ではイヴァシー (иваси) という。日本語からの転記\"]}}"
                         }
                     ],
                     "weight": 30
